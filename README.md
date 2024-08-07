@@ -5,7 +5,8 @@ The Journal App is a mobile application that allows users to securely sign in an
 ## Features
 - User Authentication: Sign in with email and password using Firebase Authentication.
 - Account Creation: Navigate to a sign-up screen to create a new account.
-- Requirements
+
+## Requirements
 - Android Studio
 - Firebase Account
 - Google Services JSON File
